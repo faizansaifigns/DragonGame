@@ -3,12 +3,12 @@
 A fun and interactive browser-based **Dragon Game** built using **HTML**, **CSS**, and **JavaScript**.
 
 ## 🚀 Live Demo
-🔗 [Play the Game](https://your-live-demo-link.com)  
-<sub>Replace this URL with your actual live deployment (e.g., GitHub Pages, Netlify)</sub>
+🔗 [Play the Game](dragongamebyfaizan.netlify.app)  
+
 
 ## 📸 Screenshot
-![Dragon Game Screenshot](./screenshot.png)  
-<sub>Make sure to include `screenshot.png` in your project folder.</sub>
+![Dragon Game Screenshot](./Screenshot.png)  
+
 
 ## 🎮 Features
 - Control a dragon using the arrow keys.
