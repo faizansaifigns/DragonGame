@@ -3,7 +3,7 @@
 A fun and interactive browser-based **Dragon Game** built using **HTML**, **CSS**, and **JavaScript**.
 
 ## 🚀 Live Demo
-🔗 [Play the Game](dragongamebyfaizan.netlify.app)  
+🔗 [Play the Game](https://papaya-kitten-538177.netlify.app/)  
 
 
 ## 📸 Screenshot
